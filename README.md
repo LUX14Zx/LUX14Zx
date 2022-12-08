@@ -32,4 +32,4 @@ I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Computer-Science,  .
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
