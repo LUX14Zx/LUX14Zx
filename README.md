@@ -26,10 +26,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+Self-Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m working as a Software Engineer.
+- :telescope: I’m studying Computer Science & Engineering, Software Engineer.
 
-- :seedling: Exploring Computer-Science,  .
-
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+- :seedling: Building Strong knowledge foundation.
