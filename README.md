@@ -16,6 +16,6 @@
 
 Self-Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m studying Computer Science & Engineering, Software Engineer.
+- :telescope: I’m self-studying Computer Science & Engineering, Software Engineer.
 
-- :seedling: Building Strong knowledge foundation.
+- :seedling: Building a Strong knowledge foundation.
