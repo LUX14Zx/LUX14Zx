@@ -19,11 +19,3 @@ Self-Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 - :telescope: I’m self-studying Computer Science & Engineering, Software Engineer.
 
 - :seedling: Building a Strong knowledge foundation.
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/LUX14Zx"
-  width="600"
-  height="300"
-/>
-</a>
