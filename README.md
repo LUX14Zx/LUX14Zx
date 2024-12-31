@@ -1,7 +1,5 @@
 <!--Header-->
-<div id="header" align="center">
-    <img src="image/header.gif" ></img>
-</div>
+
 
 <h1 align="center">
   hey there
