@@ -17,6 +17,12 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 
 - 🌱 I’m currently learning **FULL-STACK Software Engineering** focus in Web Development.
 
+<h2 align="center">Support Me</h2>
+<div align="center">
+  <p><a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" />
+</a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lux14zx" /></a></p>
+</div>
+
 ---
 
 <div align="center">
@@ -30,16 +36,6 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx"  width="400"/>
 </div>
 
----
-
-<br>
-<br>
-
-<h2 align="center">Support Me</h2>
-<div align="center">
-  <p><a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" />
-</a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lux14zx" /></a></p>
-</div>
 
 
 
