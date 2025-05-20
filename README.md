@@ -32,6 +32,8 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 
 ---
 
+<br>
+<br>
 
 <h2 align="center">Support Me</h2>
 <div align="center">
