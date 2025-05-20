@@ -29,10 +29,14 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lux14zx" alt="lux14zx" /></a> </p>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lux14zx&show_icons=true&locale=en" alt="lux14zx" />
+<br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lux14zx&show_icons=true&locale=en" alt="lux14zx" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx" />
+</div>
 
+---
 
 <div align="center">
   <div align="center">
