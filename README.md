@@ -33,8 +33,8 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 <br>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lux14zx&show_icons=true&locale=en" alt="lux14zx" width="400" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx"  width="420"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lux14zx&show_icons=true&locale=en" alt="lux14zx" width="380" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx"  width="400"/>
 </div>
 
 
