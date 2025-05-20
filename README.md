@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 <h1 align="center">Hi 👋, I'm Lux14zx</h1>
-<h2 align="center">A passionate in **Computer Science & Engineering**, **Software Engineering**, **Cyber Security** and **AI**.</h2>
+<p align="center">A passionate in **Computer Science & Engineering**, **Software Engineering**, **Cyber Security** and **AI**.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lux14zx&label=Profile%20views&color=0e75b6&style=flat" alt="lux14zx" /> </p>
