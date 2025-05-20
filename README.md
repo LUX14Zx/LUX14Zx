@@ -15,7 +15,7 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 
 - 🔭 I’m founder & indie maker at [@Foundorator Tech Labs](https://github.com/FoundoratorTL)
 
-- 🌱 I’m currently learning **FULL-STACK Software Engineering** focus in Web Development.
+- 🌱 I’m currently learning **FULL-STACK Software Engineering**, Currently focusing in *Web Development*.
 
 ---
 
