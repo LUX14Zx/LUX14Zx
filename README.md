@@ -11,6 +11,7 @@
 ### :man_technologist: About Me
 
 My real name is **Thanawit Udompol** but I mostly use _LUX14Zx_ or _LUX14Zx0x12EC_ for my codename. 🏷️
+
 I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineering** 🧑🏻‍💻, **Cyber Security** 🔐 and **AI** 🤖.
 
 - 🧑🏻‍🔬 I’m founder & indie maker at [@Foundorator Tech Labs](https://github.com/FoundoratorTL)
