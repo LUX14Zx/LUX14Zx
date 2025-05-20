@@ -1,6 +1,3 @@
-<!--Header-->
-
-
 <div align="center">
   <h1 align="center">Hi 👋, I'm LUX14Zx0x12EC 🤖</h1>
 </div>
@@ -8,6 +5,8 @@
 <div id="body" align="center">
     <img src="image/programmer.gif" ></img>
 </div>
+
+---
 
 ### :man_technologist: About Me
 
