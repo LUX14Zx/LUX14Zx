@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me
 
-A obessionate in **Computer Science & Engineering**, **Software Engineering**, **Cyber Security** and **AI**.
+A obessionate in **Computer Science & Engineering** 💻, **Software Engineering** 🧑🏻‍💻, **Cyber Security** 🔐 and **AI** 🤖.
 
 - 🧑🏻‍🔬 I’m founder & indie maker at [@Foundorator Tech Labs](https://github.com/FoundoratorTL)
 
@@ -18,7 +18,7 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 
 ---
 
-<h2 align="center">Support (a cup of coffee🍵) Me</h2>
+<h2 align="center"> 🌳 Support (a cup of coffee🍵) Me 🌱</h2>
 <div align="center">
   <p><a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" />
 </a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
