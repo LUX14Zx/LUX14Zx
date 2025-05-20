@@ -1,17 +1,17 @@
 <!--Header-->
 
 
-<h1 align="center">
-  hey there
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Lux14zx</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
 
 <div id="body" align="center">
     <img src="image/programmer.gif" ></img>
 </div>
 
 ### :man_technologist: About Me :
-<h1 align="center">Hi 👋, I'm Lux14zx</h1>
+
 <p align="center">A passionate in **Computer Science & Engineering**, **Software Engineering**, **Cyber Security** and **AI**.</p>
 
 
