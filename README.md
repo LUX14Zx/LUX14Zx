@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm LUX14Zx0x12EC 🤖</h1>
+  <h1 align="center">Hi 👋, I'm LUX14Zx0x12EC 🌳</h1>
 </div>
 
 <div id="body" align="center">
@@ -21,7 +21,8 @@ A obessionate in **Computer Science & Engineering**, **Software Engineering**, *
 <h2 align="center">Support Me</h2>
 <div align="center">
   <p><a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" />
-</a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lux14zx" /></a></p>
+</a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
+ width="210" alt="lux14zx" /></a></p>
 </div>
 
 ---
