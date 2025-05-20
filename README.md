@@ -13,7 +13,7 @@
 
 A obessionate in **Computer Science & Engineering**, **Software Engineering**, **Cyber Security** and **AI**.
 
-- 🔭 I’m currently working at [Foundorator](https://github.com/FoundoratorTL)
+- 🔭 I’m founder & indie maker at [@Foundorator Tech Labs](https://github.com/FoundoratorTL)
 
 - 🌱 I’m currently learning **FULL-STACK Software Engineering** focus in Web Development.
 
