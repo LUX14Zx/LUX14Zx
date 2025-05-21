@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://profile-counter.glitch.me/LUX14Zx/count.svg?"  />
+</div>
+
+<div align="center">
   <h1 align="center">HAlo! 👋, I'm LUX14Zx0x12EC 🌳</h1>
 </div>
 
@@ -6,6 +10,11 @@
     <img src="image/programmer.gif" ></img>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ### :man_technologist: About Me
@@ -18,6 +27,14 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
 
 - 🌱 I’m learning **FULL-STACK Software Engineering**, Currently focusing in *Web Development*.
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUX14Zx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+    <img src="https://github-profile-trophy.vercel.app?username=LUX14Zx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LUX14Zx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LUX14Zx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ---
 
 <h2 align="center"> 🌳 Support (a cup of coffee🍵) Me 🌱</h2>
@@ -27,23 +44,5 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
  width
 ="210" alt="lux14zx" /></a></p>
 </div>
-
----
-
-<div align="center">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lux14zx" alt="lux14zx" /></a> </p>
-</div>
-
-<br>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lux14zx&show_icons=true&locale=en" alt="lux14zx" width="380" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lux14zx&" alt="lux14zx"  width="400"/>
-</div>
-
-
-
-
-
 
 
