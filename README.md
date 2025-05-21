@@ -10,14 +10,6 @@
     <img src="image/programmer.gif" ></img>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 ### :man_technologist: About Me
 
 My real name is **Thanawit Udompol** but I mostly use _LUX14Zx_ or _LUX14Zx0x12EC_ for my codename. 🏷️
@@ -46,4 +38,12 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
 ="210" alt="lux14zx" /></a></p>
 </div>
 
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LUX14Zx/LUX14Zx/output/pacman-contribution-graph.svg">
+</picture>
 
