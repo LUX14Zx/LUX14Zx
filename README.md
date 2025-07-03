@@ -20,7 +20,7 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
 
 - 🧑🏻‍🔬 I’m founder & indie maker at [@Foundorator Tech Labs](https://github.com/FoundoratorTL)
 
-- 🌱 I’m learning **FULL-STACK Software Engineering**, Currently focusing in *Web Development*.
+- 🌱 I’m learning many tech stuffs to be**All-Rounder Software Engineering**.
 
 
 <br clear="both">
