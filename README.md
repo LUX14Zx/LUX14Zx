@@ -8,7 +8,7 @@
   <h1 align="center">HAlo! 👋, I'm LUX14Zx0x12EC 🌳</h1>
 </div>
 
-<div id="body" align="center">
+<div align="center">
     <img src="image/programmer.gif" ></img>
 </div>
 
@@ -25,12 +25,28 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
 
 <br clear="both">
 
+---
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" ></img>
+</div>
+
+---
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUX14Zx&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Contribution%20Graph&area_color=39FF14&title_color=39FF14&color=39FF14" height="260" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=LUX14Zx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20%F0%9F%8D%B5" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LUX14Zx&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LUX14Zx&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+---
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=LUX14Zx&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" ></img>
+</div>
+
+---
 
 <h2 align="center"> 🌳 Support (a cup of coffee🍵) Me 🌱</h2>
 <div align="center">
