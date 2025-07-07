@@ -46,17 +46,17 @@ I'm obsessed with **Computer Science & Engineering** 💻, **Software Engineerin
 ---
 
 <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=LUX14Zx&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" ></img>
+    <img src="https://github-contributor-stats.vercel.app/api?username=LUX14Zx&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true"></img>
 </div>
 
 ---
 
 <h2 align="center"> 🌳 Support (a cup of coffee🍵) Me 🌱</h2>
 <div align="center">
-  <p><a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" />
-</a><a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
- width
-="210" alt="lux14zx" /></a></p>
+  <p>
+    <a href="https://www.buymeacoffee.com/lux14zx"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lux14zx" /></a>
+    <a href="https://ko-fi.com/lux14zx"> <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lux14zx" /></a>
+  </p>
 </div>
 
 ---
