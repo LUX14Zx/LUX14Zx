@@ -1,9 +1,3 @@
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LUX14Zx/count.svg?"  />
-</div>
-
 <div align="center">
   <h1 align="center">HAlo! 👋, I'm LUX14Zx0x12EC 🌳</h1>
 </div>
